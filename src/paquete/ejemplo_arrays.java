@@ -8,12 +8,6 @@ public class ejemplo_arrays {
 		char frase[] = new char[10]; 
 
 		 
-
-		frase[0] = 'H'; 
-		frase[1] = 'o'; 
-		frase[2] = 'l'; 
-		frase[3] = 'a'; 
-		frase[4] = ' '; 
 		frase[5] = 'h'; 
 		frase[6] = 'o'; 
 		frase[7] = 'l'; 
