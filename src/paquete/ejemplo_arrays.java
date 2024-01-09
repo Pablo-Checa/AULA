@@ -12,7 +12,6 @@ public class ejemplo_arrays {
 		frase[6] = 'o'; 
 		frase[7] = 'l'; 
 		frase[8] = 'a'; 
-		frase[9] = '!'; 
 
 		//Los dos puntos ":" significa que por letra pase por todo lo que hay en frase "0,1,2...".
 		
